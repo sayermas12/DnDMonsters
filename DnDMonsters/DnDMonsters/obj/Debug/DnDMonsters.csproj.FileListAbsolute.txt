@@ -1,0 +1,8 @@
+C:\Users\hidde\Desktop\Desktop\CIT110\DnDMonsters\DnDMonsters\bin\Debug\DnDMonsters.exe.config
+C:\Users\hidde\Desktop\Desktop\CIT110\DnDMonsters\DnDMonsters\bin\Debug\DnDMonsters.exe
+C:\Users\hidde\Desktop\Desktop\CIT110\DnDMonsters\DnDMonsters\bin\Debug\DnDMonsters.pdb
+C:\Users\hidde\Desktop\Desktop\CIT110\DnDMonsters\DnDMonsters\obj\Debug\DnDMonsters.csprojAssemblyReference.cache
+C:\Users\hidde\Desktop\Desktop\CIT110\DnDMonsters\DnDMonsters\obj\Debug\DnDMonsters.csproj.CoreCompileInputs.cache
+C:\Users\hidde\Desktop\Desktop\CIT110\DnDMonsters\DnDMonsters\obj\Debug\DnDMonsters.exe
+C:\Users\hidde\Desktop\Desktop\CIT110\DnDMonsters\DnDMonsters\obj\Debug\DnDMonsters.pdb
+C:\Users\hidde\Desktop\Desktop\CIT110\DnDMonsters\DnDMonsters\bin\Debug\Data\NPC.txt
